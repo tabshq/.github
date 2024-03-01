@@ -32,9 +32,9 @@ Gain valuable insights into your business performance with Tabs' comprehensive a
 
 To get started with Tabs, follow these simple steps:
 
-1. **Installation**: Visit our [website](https://usetabs.co) to create a Tabs account.
+1. **Access**: Visit our [website](https://usetabs.co) to access the web app.
 
-2. **Setup**: Easily configure Tabs to align with your business needs. Our setup wizard guides you through the process, ensuring a quick and hassle-free experience.
+2. **Account Setup**: Sign up for an account and easily configure Tabs to align with your business needs.
 
 3. **Training Resources**: Explore our online tutorials and documentation for in-depth guidance on utilizing Tabs' features to their fullest potential.
 
