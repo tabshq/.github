@@ -1,4 +1,6 @@
 # Tabs - Streamlining Business Operations
+<!-- ![tabs_mascot](https://github.com/tabshq/.github/assets/61967364/7129c6ad-f79c-4677-b29a-ad18c54b9114) -->
+![tabs_logo](https://github.com/tabshq/.github/assets/61967364/da22e82d-5fa4-4fb3-8bae-738cddedf1ae)
 
 ## Overview
 
