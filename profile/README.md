@@ -20,7 +20,7 @@ Tabs is not just a tool; it's your business companion, your growth accelerator, 
 
 ## Getting Started with Tabs 🏁
 
-1. **Visit [Usetabs.co](https://usetabs.co)**: Dive into the Tabs experience through our user-friendly web app. 🌐
+1. **Visit [Usetabs.app](https://usetabs.app)**: Dive into the Tabs experience through our user-friendly web app. 🌐
 
 2. **Sign Up**: Create an account and unlock the door to a world of streamlined business management. 🔐
 
@@ -32,10 +32,10 @@ Tabs is not just a tool; it's your business companion, your growth accelerator, 
 
 ## API Documentation 🧑‍💻
 
-For the tech enthusiasts looking to integrate Tabs seamlessly into their ecosystem, check out our [API Documentation](https://api.usetabs.co/docs). It's not just about data; it's about unleashing the potential of your business through code. 💻🚀
+For the tech enthusiasts looking to integrate Tabs seamlessly into their ecosystem, check out our [API Documentation](https://api.usetabs.app/docs). It's not just about data; it's about unleashing the potential of your business through code. 💻🚀
 
 ## Support and Beyond ✨
 
-Have questions, ideas, or just want to share your Tabs success story? Reach out to our passionate support team at support@usetabs.co or visit our [contact page](https://usetabs.co/contact). Your journey with Tabs is not just a transaction; it's a partnership. 🤗
+Have questions, ideas, or just want to share your Tabs success story? Reach out to our passionate support team at support@usetabs.app or visit our [contact page](https://usetabs.app/contact). Your journey with Tabs is not just a transaction; it's a partnership. 🤗
 
 Thank you for choosing Tabs - where efficiency meets joy in business management! 🌟
